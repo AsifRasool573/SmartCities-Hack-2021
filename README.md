@@ -2,7 +2,7 @@
 
 
 
-Team: 
+<strong>Team: </strong><br> 
 Khai Fahmi Zaki (khaifahmi99@gmail.com) <br>
 Asif Rasool (eagle.asif07@gmail.com) <br>
 Rabi Siddique (rabisiddique27@gmail.com) <br>
